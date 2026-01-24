@@ -3,3 +3,11 @@
 a.out
 *.exe
 *.log
+a.out
+ children
+ countleaves
+ countbranch
+ countleaves
+ hello
+ interactive
+ parsing
